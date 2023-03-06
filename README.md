@@ -4,4 +4,4 @@
 <h3>Ainda em fase de desenvolvimento, vai receber atualização.<h3>
 <h4>Tela inicial:<h4>
 <img src="https://github.com/RuthLopesDiniz/Portifolio/blob/master/Images/portifolioimg.PNG?raw=true">
-<a href="https://ruthlopesdiniz.github.io/Portifolio/">Clique aqui para ver projeto publicado!</a>
+<a href="https://ruthlopesdiniz.github.io/Portifolio/#home">Clique aqui para ver projeto publicado!</a>
