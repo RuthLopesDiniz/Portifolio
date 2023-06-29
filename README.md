@@ -1,4 +1,4 @@
-# Portifolio
+# Portifólio
 
 <h2> Projeto desenvolvido ultilizando as tecnologias: HTML e CSS.<h2>
 <h3>Criado para divulgar meus projetos e aprendizados..<h3>
